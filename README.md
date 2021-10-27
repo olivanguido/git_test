@@ -1,21 +1,23 @@
-<h1 align="center"> Exercícios para terinar versionamento com Git</h1>
+<h1 align="center">Treinamento Git</h1>
 
-1) Criar um arquivo REPORT.abap com o seguinte conteudo:
+<p align="justify">Exercícios para treinar versionamento com Git</p>
+
+1) Criar um arquivo REPORT.abap com o seguinte conteudo: Concluido :heavy_check_mark:
 ABAP 1.
 ABAP 2.
 ABAP 3.
 
-2) Fazer commit no branch ECC, e PUSH no remote.
+2) Fazer commit no branch ECC, e PUSH no remote. Concluido :heavy_check_mark:
 
-3) Criar um branch S4DEV e trabalhar nele.
+3) Criar um branch S4DEV e trabalhar nele. Concluido :heavy_check_mark:
 
-4) Adaptar REPORT.abap:
+4) Adaptar REPORT.abap: Concluido :heavy_check_mark:
 ABAP 1.
 ABAP 2 modificado no S/4.
 ABAP 3.
 ABAP 4 adicionado no S/4.
 
-5) Fazer commit no branch S4DEV, e PUSH no remote.
+5) Fazer commit no branch S4DEV, e PUSH no remote. Concluido :heavy_check_mark:
 
 6) Voltar para o branch ECC.
 
@@ -24,25 +26,25 @@ ABAP 1 modificado no ECC.
 ABAP 2.
 ABAP 3.
 
-8) Fazer commit no branch ECC, e PUSH no remote.
+8) Fazer commit no branch ECC, e PUSH no remote. Concluido :heavy_check_mark:
 
-9) Voltar para o branch S4DEV.
+9) Voltar para o branch S4DEV. Concluido :heavy_check_mark:
 
-10) Fazer o MERGE do branch ECC (se existirem conflitos resolver os mesmos).
+10) Fazer o MERGE do branch ECC (se existirem conflitos resolver os mesmos). Concluido :heavy_check_mark:
 
-11) Fazer commit no branch S4DEV, e PUSH no remote.
+11) Fazer commit no branch S4DEV, e PUSH no remote. Concluido :heavy_check_mark:
 
-12) Voltar para o branch ECC.
+12) Voltar para o branch ECC. Concluido :heavy_check_mark:
 
-13) Adaptar REPORT.abap:
+13) Adaptar REPORT.abap: Concluido :heavy_check_mark:
 ABAP 1 modificado no ECC.
 ABAP 2 modificado no ECC.
 ABAP 3.
 
-14) Fazer commit no branch ECC, e PUSH no remote.
+14) Fazer commit no branch ECC, e PUSH no remote. Concluido :heavy_check_mark:
 
-15) Voltar para o branch S4DEV.
+15) Voltar para o branch S4DEV. Concluido :heavy_check_mark:
 
-16) Fazer o MERGE do branch ECC (se existirem conflitos resolver os mesmos).
+16) Fazer o MERGE do branch ECC (se existirem conflitos resolver os mesmos). Concluido :heavy_check_mark:
 
-17) Fazer commit no branch S4DEV, e PUSH no remote.
+17) Fazer commit no branch S4DEV, e PUSH no remote. Concluido :heavy_check_mark:
