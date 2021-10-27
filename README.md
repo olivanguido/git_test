@@ -1,6 +1,6 @@
 <h1 align="center">Treinamento Git</h1>
 
-<p align="justify">Exercícios para treinar versionamento com Git</p>
+## Exercícios para treinar versionamento com Git
 
 1) Criar um arquivo REPORT.abap com o seguinte conteudo:
 ABAP 1.
